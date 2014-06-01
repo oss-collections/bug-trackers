@@ -1,0 +1,21 @@
+[submodule "debbugs"]
+	path = debbugs
+	url = git://gitorious.org/debbugs/debbugs.git
+[submodule "bugzilla"]
+	path = bugzilla
+	url = https://git.mozilla.org/bugzilla/bugzilla.git
+[submodule "rt"]
+	path = rt
+	url = https://github.com/bestpractical/rt.git
+[submodule "mantisbt"]
+	path = mantisbt
+	url = https://github.com/mantisbt/mantisbt.git
+[submodule "redmine"]
+	path = redmine
+	url = https://github.com/redmine/redmine.git
+[submodule "roundup"]
+	path = roundup
+	url = hg::http://hg.code.sf.net/p/roundup/code
+[submodule "bloodhound"]
+	path = bloodhound
+	url = git://git.apache.org/bloodhound.git
