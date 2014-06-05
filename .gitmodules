@@ -19,3 +19,6 @@
 [submodule "bloodhound"]
 	path = bloodhound
 	url = git://git.apache.org/bloodhound.git
+[submodule "watson-ruby"]
+	path = watson-ruby
+	url = https://github.com/nhmood/watson-ruby.git
