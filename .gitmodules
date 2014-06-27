@@ -10,9 +10,6 @@
 [submodule "mantisbt"]
 	path = mantisbt
 	url = https://github.com/mantisbt/mantisbt.git
-[submodule "redmine"]
-	path = redmine
-	url = https://github.com/redmine/redmine.git
 [submodule "roundup"]
 	path = roundup
 	url = hg::http://hg.code.sf.net/p/roundup/code
